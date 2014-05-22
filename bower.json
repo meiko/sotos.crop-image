@@ -1,0 +1,13 @@
+{
+    "name": "sotos.crop-image",
+    "version": "0.0.2",
+    "main": [
+        "dist/sotos.crop-image.js",
+        "dist/sotos.crop-image.min.js"
+    ],
+    "ignore": [
+    ],
+    "dependencies": {
+        "angular": "~1.2"
+    }
+}
